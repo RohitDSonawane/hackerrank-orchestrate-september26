@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Full payment of 15656000 on 2025-08-03 leaves balance safely above minimum.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Full payment of 6670 on 2026-07-05 leaves balance safely above minimum.
+request_28,319.13,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1302.40 within forecast period without violating minimum required balance.
+request_29,51524,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,Full payment of 51524 on 2025-11-04 leaves balance safely above minimum.
+request_30,775.20,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,Installment plan of 3 payments of 268.74 starting 2026-04-06 is safe.
+request_31,3719496.40,affordable_later,wait,2024-09-15:18164000,2024-09-15,none,Pay 18164000 in full on 2024-09-15. Paying earlier would breach minimum required balance.
+request_32,10671.03,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 40018 within forecast period without violating minimum required balance.
+request_33,37877.97,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 118000 within forecast period without violating minimum required balance.
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,Full payment of 129400 on 2024-12-04 leaves balance safely above minimum.
+request_35,47823.24,affordable_later,wait,2026-01-15:212000,2026-01-15,none,Pay 212000 in full on 2026-01-15. Paying earlier would breach minimum required balance.
+request_36,861.12,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 3954 within forecast period without violating minimum required balance.
+request_37,5262821.04,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 14649000 within forecast period without violating minimum required balance.
+request_38,191.05,affordable_later,wait,2025-10-15:971.30,2025-10-15,none,Pay 971.30 in full on 2025-10-15. Paying earlier would breach minimum required balance.
+request_39,58819.24,affordable_later,wait,2026-04-15:208600,2026-04-15,none,Pay 208600 in full on 2026-04-15. Paying earlier would breach minimum required balance.
+request_40,444.58,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1290.30 within forecast period without violating minimum required balance.
+request_41,12391073.08,affordable_later,wait,2025-11-15:38760000,2025-11-15,none,Pay 38760000 in full on 2025-11-15. Paying earlier would breach minimum required balance.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,Full payment of 52100 on 2026-01-05 leaves balance safely above minimum.
+request_43,9868266.83,affordable_later,wait,2024-10-15:43339000,2024-10-15,none,Pay 43339000 in full on 2024-10-15. Paying earlier would breach minimum required balance.
+request_44,34727.81,affordable_later,wait,2025-04-15:95800,2025-04-15,none,Pay 95800 in full on 2025-04-15. Paying earlier would breach minimum required balance.
+request_45,4793839.37,affordable_later,wait,2026-09-15:21983000,2026-09-15,none,Pay 21983000 in full on 2026-09-15. Paying earlier would breach minimum required balance.
+request_46,46272.56,affordable_with_plan,partial_payment,2024-12-03:46272.56|2024-12-15:3177.44,2024-12-15,none,Pay 46272.56 today and remaining 3177.44 on 2024-12-15.
+request_47,38114000,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,Full payment of 38114000 on 2025-05-05 leaves balance safely above minimum.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,Full payment of 45700 on 2026-07-25 leaves balance safely above minimum.
+request_49,12328765.91,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 34333000 within forecast period without violating minimum required balance.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Full payment of 43900 on 2025-08-06 leaves balance safely above minimum.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Full payment of 2191000 on 2026-01-03 leaves balance safely above minimum.
+request_52,21927.86,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Pay 28870 in full on 2024-06-15. Paying earlier would breach minimum required balance.
+request_53,714.42,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2025-12-15,none,Installment plan of 3 payments of 589.06 starting 2025-11-21 is safe.
+request_54,5298.26,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 121528 within forecast period without violating minimum required balance.
+request_55,121930.68,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 218600 within forecast period without violating minimum required balance.
+request_56,538.45,affordable_with_plan,partial_payment,2025-02-03:538.45|2025-02-15:343.11,2025-02-15,none,Pay 538.45 today and remaining 343.11 on 2025-02-15.
+request_57,12007.71,affordable_later,wait,2026-06-15:61446,2026-06-15,none,Pay 61446 in full on 2026-06-15. Paying earlier would breach minimum required balance.
+request_58,15875052.07,affordable_with_plan,full_payment,2024-12-07:16226000,,stop:event_5357,Affordable with full payment by stopping delivery_membership (event_5357).
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,Installment plan of 3 payments of 48741.33 starting 2025-05-07 is safe.
+request_60,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 199.89 within forecast period without violating minimum required balance.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Installment plan of 3 payments of 10074.83 starting 2024-03-17 is safe.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Full payment of 404.23 on 2025-08-05 leaves balance safely above minimum.
+request_63,48206.35,affordable_with_plan,partial_payment,2026-07-07:48206.35|2026-09-15:295693.65,2026-09-15,none,Pay 48206.35 today and remaining 295693.65 on 2026-09-15.
+request_64,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 63700 within forecast period without violating minimum required balance.
+request_65,7114.41,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 54340 within forecast period without violating minimum required balance.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Full payment of 22200 on 2026-04-03 leaves balance safely above minimum.
+request_67,511.56,affordable_later,wait,2024-09-15:2094,2024-09-15,none,Pay 2094 in full on 2024-09-15. Paying earlier would breach minimum required balance.
+request_68,1327.31,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-03-23,none,Installment plan of 3 payments of 725.09 starting 2025-02-14 is safe.
+request_69,529.10,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,none,Full payment of 529.10 on 2026-01-04 leaves balance safely above minimum.
+request_70,49190,affordable_later,wait,2025-02-15:243900,2025-02-15,none,Pay 243900 in full on 2025-02-15. Paying earlier would breach minimum required balance.
+request_71,1906717.73,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 21451000 within forecast period without violating minimum required balance.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,Full payment of 11330 on 2026-07-05 leaves balance safely above minimum.
+request_73,65431.65,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 71400 within forecast period without violating minimum required balance.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Full payment of 5010 on 2025-08-04 leaves balance safely above minimum.
+request_75,28270,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,Installment plan of 3 payments of 9800.27 starting 2026-04-09 is safe.
+request_76,912.40,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 4455.60 within forecast period without violating minimum required balance.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,Full payment of 60700 on 2025-11-05 leaves balance safely above minimum.
+request_78,48541.68,affordable_with_plan,full_payment,2025-10-02:50200,2025-10-15,reduce_to:event_7225:1480,Affordable with full payment by reducing shopping (event_7225) to 1480.
+request_79,384.28,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 2151.60 within forecast period without violating minimum required balance.
+request_80,122046.50,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 217500 within forecast period without violating minimum required balance.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Full payment of 2076 on 2026-07-03 leaves balance safely above minimum.
+request_82,359.62,affordable_later,wait,2025-02-15:1405.20,2025-02-15,none,Pay 1405.20 in full on 2025-02-15. Paying earlier would breach minimum required balance.
+request_83,9740.32,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 156200 within forecast period without violating minimum required balance.
+request_84,25240.74,affordable_later,wait,2026-06-15:95400,2026-06-15,none,Pay 95400 in full on 2026-06-15. Paying earlier would breach minimum required balance.
+request_85,547583.59,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 19304000 within forecast period without violating minimum required balance.
+request_86,43473.02,affordable_with_plan,full_payment,2025-08-03:46300,2025-08-23,reduce_to:event_8084:2360,Affordable with full payment by reducing shopping (event_8084) to 2360.
+request_87,26158.88,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 487900 within forecast period without violating minimum required balance.
+request_88,9731.73,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-15,none,Installment plan of 3 payments of 9045.23 starting 2024-06-14 is safe.
+request_89,9200621.12,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-11-15,none,Installment plan of 3 payments of 4768746.67 starting 2025-11-18 is safe.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Full payment of 2560 on 2026-07-06 leaves balance safely above minimum.
+request_91,311.35,affordable_later,wait,2024-11-15:1927.20,2024-11-15,none,Pay 1927.20 in full on 2024-11-15. Paying earlier would breach minimum required balance.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Full payment of 34034 on 2025-02-05 leaves balance safely above minimum.
+request_93,1729.20,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none,Full payment of 1729.20 on 2026-04-07 leaves balance safely above minimum.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,Full payment of 572 on 2024-12-04 leaves balance safely above minimum.
+request_95,15285.49,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 553000 within forecast period without violating minimum required balance.
+request_96,73657.02,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-15,none,Installment plan of 3 payments of 31269.33 starting 2026-01-10 is safe.
+request_97,805.23,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-03-15,none,Installment plan of 3 payments of 8145.28 starting 2024-03-19 is safe.
+request_98,8889.15,affordable_later,wait,2025-10-15:27148,2025-10-15,none,Pay 27148 in full on 2025-10-15. Paying earlier would breach minimum required balance.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,Full payment of 18062 on 2026-07-04 leaves balance safely above minimum.
+request_100,25456.54,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,Installment plan of 3 payments of 12866.19 starting 2024-06-13 is safe.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Full payment of 143500 on 2025-11-03 leaves balance safely above minimum.
+request_102,1716,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,Installment plan of 3 payments of 594.88 starting 2026-04-05 is safe.
+request_103,18937.47,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 368300 within forecast period without violating minimum required balance.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Full payment of 17204 on 2025-02-04 leaves balance safely above minimum.
+request_105,50782.06,affordable_with_plan,installments,2026-06-11:9630|2026-07-09:9630|2026-08-06:9630|2026-09-03:9630|2026-10-01:9630|2026-10-29:9630,2026-06-15,none,Installment plan of 6 payments of 9630 starting 2026-06-11 is safe.
+request_106,373.05,affordable_later,wait,2025-02-15:2207.70,2025-02-15,none,Pay 2207.70 in full on 2025-02-15. Paying earlier would breach minimum required balance.
+request_107,618.04,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 2534.40 within forecast period without violating minimum required balance.
+request_108,3749,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 55308 within forecast period without violating minimum required balance.
+request_109,613.99,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-03-15,none,Installment plan of 3 payments of 645.98 starting 2024-03-18 is safe.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,Installment plan of 3 payments of 7748.69 starting 2025-08-06 is safe.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Full payment of 16625000 on 2026-04-03 leaves balance safely above minimum.
+request_112,271.70,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,none,Full payment of 271.70 on 2024-06-05 leaves balance safely above minimum.
+request_113,25940.14,affordable_later,wait,2026-09-15:36500,2026-09-15,none,Pay 36500 in full on 2026-09-15. Paying earlier would breach minimum required balance.
+request_114,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 65300 within forecast period without violating minimum required balance.
+request_115,16371.71,affordable_later,wait,2024-11-15:80500,2024-11-15,none,Pay 80500 in full on 2024-11-15. Paying earlier would breach minimum required balance.
+request_116,14544.96,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 241200 within forecast period without violating minimum required balance.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,Full payment of 880 on 2026-07-05 leaves balance safely above minimum.
+request_118,660.93,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 738.10 within forecast period without violating minimum required balance.
+request_119,66183.03,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 203500 within forecast period without violating minimum required balance.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Full payment of 7714000 on 2026-04-06 leaves balance safely above minimum.
+request_121,633.60,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,Full payment of 633.60 on 2024-03-03 leaves balance safely above minimum.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Installment plan of 3 payments of 7126773.33 starting 2025-08-05 is safe.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,Full payment of 4076000 on 2026-01-07 leaves balance safely above minimum.
+request_124,1370.32,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-06-15,none,Installment plan of 3 payments of 1076.12 starting 2024-06-11 is safe.
+request_125,6381.37,affordable_with_plan,full_payment,2025-11-06:6468,2025-11-15,stop:event_11519,Affordable with full payment by stopping cloud_storage (event_11519).
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,Full payment of 159600 on 2026-07-03 leaves balance safely above minimum.
+request_127,13470.03,affordable_later,wait,2024-10-15:23980,2024-10-15,none,Pay 23980 in full on 2024-10-15. Paying earlier would breach minimum required balance.
+request_128,24695.94,affordable_with_plan,full_payment,2025-02-07:25168,2025-02-15,reduce_to:event_11812:1058.20,Affordable with full payment by reducing entertainment (event_11812) to 1058.20.
+request_129,121.28,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 2668.80 within forecast period without violating minimum required balance.
+request_130,399.40,affordable_later,wait,2025-02-15:1978.80,2025-02-15,none,Pay 1978.80 in full on 2025-02-15. Paying earlier would breach minimum required balance.
+request_131,1190.82,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-06-23,none,Installment plan of 3 payments of 643.14 starting 2025-05-06 is safe.
+request_132,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 379.86 within forecast period without violating minimum required balance.
+request_133,15770000,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 15770000 within forecast period without violating minimum required balance.
+request_134,6464661.81,affordable_later,wait,2025-08-15:21831000,2025-08-15,none,Pay 21831000 in full on 2025-08-15. Paying earlier would breach minimum required balance.
+request_135,304.80,affordable_now,full_payment,2026-07-06:304.80,2026-07-06,none,Full payment of 304.80 on 2026-07-06 leaves balance safely above minimum.
+request_136,560.40,affordable_now,full_payment,2024-06-03:560.40,2024-06-03,none,Full payment of 560.40 on 2024-06-03 leaves balance safely above minimum.
+request_137,22475.03,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 80100 within forecast period without violating minimum required balance.
+request_138,553.15,affordable_with_plan,partial_payment,2026-04-07:553.15|2026-04-15:703.79,2026-04-15,none,Pay 553.15 today and remaining 703.79 on 2026-04-15.
+request_139,1356.11,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-15,none,Installment plan of 3 payments of 802.88 starting 2024-09-07 is safe.
+request_140,1950.69,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 62832 within forecast period without violating minimum required balance.
+request_141,29317.50,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 171600 within forecast period without violating minimum required balance.
+request_142,1263.60,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,Full payment of 1263.60 on 2024-12-05 leaves balance safely above minimum.
+request_143,3616.69,affordable_later,wait,2025-07-15:12584,2025-07-15,none,Pay 12584 in full on 2025-07-15. Paying earlier would breach minimum required balance.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,Full payment of 233.34 on 2026-07-04 leaves balance safely above minimum.
+request_145,25790.17,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 217400 within forecast period without violating minimum required balance.
+request_146,15867.01,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 449400 within forecast period without violating minimum required balance.
+request_147,486.30,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,2026-05-15,none,Installment plan of 3 payments of 391.63 starting 2026-04-08 is safe.
+request_148,8450.26,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-08-15,none,Installment plan of 3 payments of 7710.56 starting 2024-06-14 is safe.
+request_149,24922.84,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-11-15,none,Installment plan of 3 payments of 12706.03 starting 2025-11-18 is safe.
+request_150,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 496.10 within forecast period without violating minimum required balance.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Full payment of 26999000 on 2024-09-03 leaves balance safely above minimum.
+request_152,10920.31,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-03-15,none,Installment plan of 3 payments of 4812.43 starting 2025-02-12 is safe.
+request_153,195.87,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 2830.80 within forecast period without violating minimum required balance.
+request_154,1625.80,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Installment plan of 3 payments of 563.61 starting 2024-12-04 is safe.
+request_155,112500,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,Full payment of 112500 on 2025-05-06 leaves balance safely above minimum.
+request_156,6635.04,affordable_later,wait,2026-06-15:43076,2026-06-15,none,Pay 43076 in full on 2026-06-15. Paying earlier would breach minimum required balance.
+request_157,5023428.06,affordable_later,wait,2024-05-15:23503000,2024-05-15,none,Pay 23503000 in full on 2024-05-15. Paying earlier would breach minimum required balance.
+request_158,242600,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,Installment plan of 3 payments of 84101.33 starting 2025-08-07 is safe.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,Full payment of 13398 on 2026-01-04 leaves balance safely above minimum.
+request_160,560.31,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-15,none,Installment plan of 3 payments of 432.05 starting 2024-06-13 is safe.
+request_161,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 21204000 within forecast period without violating minimum required balance.
+request_162,2925974.73,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 83923000 within forecast period without violating minimum required balance.
+request_163,9780647.20,affordable_with_plan,installments,2024-09-10:6692053.33|2024-10-11:6692053.33|2024-11-11:6692053.33,2024-10-15,none,Installment plan of 3 payments of 6692053.33 starting 2024-09-10 is safe.
+request_164,27018000,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,Installment plan of 3 payments of 9366240 starting 2025-02-11 is safe.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Full payment of 80600 on 2026-04-06 leaves balance safely above minimum.
+request_166,2907.60,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Installment plan of 3 payments of 1007.97 starting 2024-12-03 is safe.
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,Full payment of 43802 on 2025-05-05 leaves balance safely above minimum.
+request_168,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 49380 within forecast period without violating minimum required balance.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,Full payment of 41976 on 2024-03-04 leaves balance safely above minimum.
+request_170,34633492.64,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-08-15,none,Installment plan of 3 payments of 12804480 starting 2025-08-06 is safe.
+request_171,29.54,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1878.80 within forecast period without violating minimum required balance.
+request_172,7574.32,affordable_with_plan,partial_payment,2024-06-05:7574.32|2024-06-15:2625.68,2024-06-15,none,Pay 7574.32 today and remaining 2625.68 on 2024-06-15.
+request_173,63875.22,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 113000 within forecast period without violating minimum required balance.
+request_174,1146.20,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,Installment plan of 3 payments of 397.35 starting 2026-04-04 is safe.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,Full payment of 2346.30 on 2024-09-06 leaves balance safely above minimum.
+request_176,402.61,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1239.70 within forecast period without violating minimum required balance.
+request_177,609.13,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1017.60 within forecast period without violating minimum required balance.
+request_178,2938.10,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,Installment plan of 3 payments of 1018.54 starting 2024-12-07 is safe.
+request_179,11301239.26,affordable_later,wait,2025-07-15:41648000,2025-07-15,none,Pay 41648000 in full on 2025-07-15. Paying earlier would breach minimum required balance.
+request_180,66500,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,Full payment of 66500 on 2026-07-06 leaves balance safely above minimum.
+request_181,262.70,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 5059.20 within forecast period without violating minimum required balance.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Full payment of 65714 on 2025-08-05 leaves balance safely above minimum.
+request_183,23634400.64,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-05-15,none,Installment plan of 3 payments of 9313546.67 starting 2026-04-10 is safe.
+request_184,11222.61,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 251900 within forecast period without violating minimum required balance.
+request_185,321.57,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1257.30 within forecast period without violating minimum required balance.
+request_186,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 26554 within forecast period without violating minimum required balance.
+request_187,37406.20,affordable_later,wait,2024-11-15:187500,2024-11-15,none,Pay 187500 in full on 2024-11-15. Paying earlier would breach minimum required balance.
+request_188,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 2464 within forecast period without violating minimum required balance.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,Full payment of 488.40 on 2026-07-04 leaves balance safely above minimum.
+request_190,623.70,affordable_later,wait,2024-12-15:2557.50,2024-12-15,none,Pay 2557.50 in full on 2024-12-15. Paying earlier would breach minimum required balance.
+request_191,664.40,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,Full payment of 664.40 on 2025-05-03 leaves balance safely above minimum.
+request_192,84.07,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 2046 within forecast period without violating minimum required balance.
+request_193,116.15,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-04-15,none,Installment plan of 3 payments of 420.23 starting 2024-03-21 is safe.
+request_194,30320,affordable_later,wait,2025-10-23:132800,2025-10-23,none,Pay 132800 in full on 2025-10-23. Paying earlier would breach minimum required balance.
+request_195,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1170.40 within forecast period without violating minimum required balance.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,Full payment of 762.30 on 2024-06-03 leaves balance safely above minimum.
+request_197,25032818.38,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 50939000 within forecast period without violating minimum required balance.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Full payment of 185800 on 2026-07-07 leaves balance safely above minimum.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Installment plan of 3 payments of 8206986.67 starting 2024-09-07 is safe.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Full payment of 21717000 on 2025-02-06 leaves balance safely above minimum.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Full payment of 23997000 on 2026-04-03 leaves balance safely above minimum.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Full payment of 123900 on 2024-12-05 leaves balance safely above minimum.
+request_203,1442.10,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,Installment plan of 3 payments of 499.93 starting 2025-05-10 is safe.
+request_204,531.88,affordable_later,wait,2026-01-15:588.74,2026-01-15,none,Pay 588.74 in full on 2026-01-15. Paying earlier would breach minimum required balance.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Full payment of 10621000 on 2024-03-06 leaves balance safely above minimum.
+request_206,1404.70,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,Installment plan of 3 payments of 486.96 starting 2025-08-03 is safe.
+request_207,5248.05,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Pay 11830 in full on 2026-07-15. Paying earlier would breach minimum required balance.
+request_208,3969117.67,affordable_later,wait,2024-06-15:4413000,2024-06-15,none,Pay 4413000 in full on 2024-06-15. Paying earlier would breach minimum required balance.
+request_209,2119.64,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 56914 within forecast period without violating minimum required balance.
+request_210,707.12,affordable_with_plan,partial_payment,2026-04-06:707.12|2026-04-15:652.90,2026-04-15,none,Pay 707.12 today and remaining 652.90 on 2026-04-15.
+request_211,478.12,affordable_later,wait,2024-09-15:1788.60,2024-09-15,none,Pay 1788.60 in full on 2024-09-15. Paying earlier would breach minimum required balance.
+request_212,2751080.99,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 71934000 within forecast period without violating minimum required balance.
+request_213,3362.40,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,Installment plan of 3 payments of 1165.63 starting 2026-01-21 is safe.
+request_214,46536.63,affordable_with_plan,partial_payment,2024-12-04:46536.63|2024-12-15:23213.37,2024-12-15,none,Pay 46536.63 today and remaining 23213.37 on 2024-12-15.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Installment plan of 3 payments of 10395.15 starting 2025-05-09 is safe.
+request_216,519.83,affordable_later,wait,2026-09-15:3332.40,2026-09-15,none,Pay 3332.40 in full on 2026-09-15. Paying earlier would breach minimum required balance.
+request_217,21397.21,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-15,none,Installment plan of 3 payments of 12889.07 starting 2024-03-19 is safe.
+request_218,27553019.52,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-08-15,none,Installment plan of 3 payments of 21195893.33 starting 2025-08-07 is safe.
+request_219,793.92,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-05-15,none,Installment plan of 3 payments of 580.01 starting 2026-04-07 is safe.
+request_220,90.13,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 3118.50 within forecast period without violating minimum required balance.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Full payment of 109800 on 2025-11-03 leaves balance safely above minimum.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Full payment of 34078 on 2026-01-05 leaves balance safely above minimum.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,Full payment of 898.70 on 2024-09-07 leaves balance safely above minimum.
+request_224,8781938.31,affordable_with_plan,partial_payment,2025-02-04:8781938.31|2025-03-15:1545061.69,2025-03-15,none,Pay 8781938.31 today and remaining 1545061.69 on 2025-03-15.
+request_225,9685061.55,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-15,none,Installment plan of 3 payments of 7647120 starting 2026-07-20 is safe.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Full payment of 157000 on 2024-12-03 leaves balance safely above minimum.
+request_227,8909.62,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 259700 within forecast period without violating minimum required balance.
+request_228,3802352.96,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 63327000 within forecast period without violating minimum required balance.
+request_229,431.72,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1526.80 within forecast period without violating minimum required balance.
+request_230,3537.60,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,Full payment of 3537.60 on 2025-08-06 leaves balance safely above minimum.
+request_231,35706,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-03,none,Installment plan of 3 payments of 12378.08 starting 2026-01-06 is safe.
+request_232,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1970.10 within forecast period without violating minimum required balance.
+request_233,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 6241000 within forecast period without violating minimum required balance.
+request_234,219.70,affordable_later,wait,2026-09-15:1213.30,2026-09-15,none,Pay 1213.30 in full on 2026-09-15. Paying earlier would breach minimum required balance.
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,Full payment of 967.20 on 2024-09-06 leaves balance safely above minimum.
+request_236,6128285.62,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 52383000 within forecast period without violating minimum required balance.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Full payment of 23826000 on 2026-04-05 leaves balance safely above minimum.
+request_238,517.67,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 663.60 within forecast period without violating minimum required balance.
+request_239,642,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,Full payment of 642 on 2025-05-04 leaves balance safely above minimum.
+request_240,16207.66,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 101200 within forecast period without violating minimum required balance.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,Installment plan of 3 payments of 7298026.67 starting 2024-03-17 is safe.
+request_242,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1966.80 within forecast period without violating minimum required balance.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Full payment of 17468 on 2026-07-07 leaves balance safely above minimum.
+request_244,49918,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,Full payment of 49918 on 2024-06-04 leaves balance safely above minimum.
+request_245,35400.68,affordable_later,wait,2026-01-15:128500,2026-01-15,none,Pay 128500 in full on 2026-01-15. Paying earlier would breach minimum required balance.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Installment plan of 3 payments of 22216.48 starting 2026-04-03 is safe.
+request_247,1059.30,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,Full payment of 1059.30 on 2024-09-05 leaves balance safely above minimum.
+request_248,1026.80,affordable_with_plan,partial_payment,2025-02-07:1026.80|2025-04-15:938.80,2025-04-15,none,Pay 1026.80 today and remaining 938.80 on 2025-04-15.
+request_249,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 643.20 within forecast period without violating minimum required balance.
+request_250,15777.63,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 124278 within forecast period without violating minimum required balance.
+request_251,1513.60,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1513.60 within forecast period without violating minimum required balance.
+request_252,4018149.05,affordable_later,wait,2026-09-15:28082000,2026-09-15,none,Pay 28082000 in full on 2026-09-15. Paying earlier would breach minimum required balance.
+request_253,1432.81,affordable_with_plan,installments,2024-03-21:984.60|2024-04-21:984.60|2024-05-22:984.60,2024-05-15,none,Installment plan of 3 payments of 984.60 starting 2024-03-21 is safe.
+request_254,673.87,affordable_later,wait,2025-10-15:3535.20,2025-10-15,none,Pay 3535.20 in full on 2025-10-15. Paying earlier would breach minimum required balance.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Full payment of 3345000 on 2026-04-06 leaves balance safely above minimum.
+request_256,160179.03,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-07-15,none,Installment plan of 3 payments of 75816 starting 2024-06-10 is safe.
+request_257,545.72,affordable_later,wait,2025-11-15:1352.40,2025-11-15,none,Pay 1352.40 in full on 2025-11-15. Paying earlier would breach minimum required balance.
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,Full payment of 1113.60 on 2026-01-07 leaves balance safely above minimum.
+request_259,166.50,affordable_later,wait,2024-11-15:935,2024-11-15,none,Pay 935 in full on 2024-11-15. Paying earlier would breach minimum required balance.
+request_260,8257007.20,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 52079000 within forecast period without violating minimum required balance.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,Full payment of 1830.40 on 2026-07-03 leaves balance safely above minimum.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Full payment of 9236000 on 2024-12-05 leaves balance safely above minimum.
+request_263,7362.53,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 51546 within forecast period without violating minimum required balance.
+request_264,15950.43,affordable_later,wait,2026-06-15:111300,2026-06-15,none,Pay 111300 in full on 2026-06-15. Paying earlier would breach minimum required balance.
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,Full payment of 45970 on 2024-03-06 leaves balance safely above minimum.
+request_266,740.97,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 935 within forecast period without violating minimum required balance.
+request_267,1758.37,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 1925 within forecast period without violating minimum required balance.
+request_268,1039.42,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-15,none,Installment plan of 3 payments of 841.22 starting 2024-06-14 is safe.
+request_269,0,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 15490 within forecast period without violating minimum required balance.
+request_270,183.03,not_affordable,not_recommended,none,,none,Cannot safely complete full requested amount of 3028.80 within forecast period without violating minimum required balance.
+request_271,15073.59,affordable_later,wait,2024-11-15:91300,2024-11-15,none,Pay 91300 in full on 2024-11-15. Paying earlier would breach minimum required balance.
+request_272,5471766.65,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-03-15,none,Installment plan of 3 payments of 4709466.67 starting 2025-02-12 is safe.
+request_273,8458535.85,affordable_with_plan,partial_payment,2026-04-07:8458535.85|2026-04-15:7402464.15,2026-04-15,none,Pay 8458535.85 today and remaining 7402464.15 on 2026-04-15.
+request_274,2254.68,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2024-12-15,none,Installment plan of 3 payments of 940.75 starting 2024-12-04 is safe.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Full payment of 15884000 on 2025-05-06 leaves balance safely above minimum.
