@@ -1,7 +1,6 @@
 # Buy or Wait? — AI Financial Decision Agent
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Validation](https://img.shields.io/badge/Contract%20Validation-100%25%20Pass-brightgreen.svg)]()
 [![Challenge](https://img.shields.io/badge/HackerRank-Orchestrate%202026-orange.svg)](https://www.hackerrank.com/contests/hackerrank-orchestrate-september26/challenges/buy-or-wait)
 
@@ -180,6 +179,6 @@ Submissions for this challenge are made at:
 
 ---
 
-## License
+## Licensing
 
-This project is created as part of the HackerRank Orchestrate 2026 Hackathon under the MIT License.
+Built for the HackerRank Orchestrate hackathon (September 2026). This is a fork of the contest's starter repository, which has no license, so no license is granted for the starter files.
